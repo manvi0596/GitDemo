@@ -17,6 +17,11 @@ public void elementsUi()
 {
 	System.out.println("elementsUi");
 }
+@Test
+public void elementsUi34()
+{
+	System.out.println("elementsUi56");
+}
 
 
 }
